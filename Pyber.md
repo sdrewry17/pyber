@@ -1,6 +1,12 @@
 
 # Pyber
 
+Findings:
+
+* Being a Pyber driver in a rural or suburban area may be more profitable than an urban area due to the smaller amount of competition (number of drivers) and the average higher fare values
+* There does seem to be enough demand to justify supply in many urban areas due to the large number of rides
+* Certain suburban areas have a good combination of high number of rides, high average rides, and lower number of drivers - I would identify these and move there to be a pyber driver
+
 
 ```python
 #Dependencies
@@ -166,7 +172,7 @@ plt.title("Average Fare vs. Total Number of Rides. Note - size of circle is in r
 
 
 
-![png](output_9_1.png)
+![png](output_10_1.png)
 
 
 
@@ -248,7 +254,7 @@ plt.title("% of Total Fares by City Type")
 
 
 
-![png](output_12_1.png)
+![png](output_13_1.png)
 
 
 
@@ -267,7 +273,7 @@ plt.title("% of Total Rides by City Type")
 
 
 
-![png](output_13_1.png)
+![png](output_14_1.png)
 
 
 
@@ -286,5 +292,5 @@ plt.title("% of Total Drivers by City Type")
 
 
 
-![png](output_14_1.png)
+![png](output_15_1.png)
 
